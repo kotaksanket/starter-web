@@ -13,6 +13,8 @@ Wait for MTP day. Implementation will be done by Innovation.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ## Copyright
 
 GIT training 2021
