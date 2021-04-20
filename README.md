@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 Wait for MTP day. Implementation will be done by Innovation.
 
 ## How To Contribute
+
+## Copyright
+
+GIT training 2021
