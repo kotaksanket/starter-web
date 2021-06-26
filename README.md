@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Updating Emergancy fix for QuickFix.
+This repository is for showing how Git and GitHub work. Updating Emergancy fix for QuickFix Again.
 
 ## Introduction 
 Here is the Introduction. Adding Line for Rebasing. More changes from MyFeature Branch too.
